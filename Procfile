@@ -1,1 +1,1 @@
-clock: ruby irb_scraper_web
+clock: ruby irb_scraper_web.rb
